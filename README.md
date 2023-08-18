@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Waiz Khan</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
-
+[![Git Stars](https://git-stars.com/share/embed/Waiz-Legion.svg)](https://git-stars.com/user/Waiz-Legion)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waiz-legion&label=Profile%20views&color=0e75b6&style=flat" alt="waiz-legion" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waiz-legion" alt="waiz-legion" /></a> </p>
